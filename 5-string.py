@@ -1,9 +1,9 @@
-#ism = 'Ahad'
-#familiya = 'Qayum'
-#print(ism+familiya)
-#print("Men", ism+' '+familiya,"man")
-#ism_sharif = f"{ism} {familiya}"
-#print('Mening ismim',ism_sharif.lower())
+ism = 'Ahad'
+familiya = 'Qayum'
+print(ism+familiya)
+print("Men", ism+' '+familiya,"man")
+ism_sharif = f"{ism} {familiya}"
+print('Mening ismim',ism_sharif.lower())
 
 #ism = 'James'
 #familiya = 'Bond'
@@ -13,9 +13,9 @@
 #print('Hello \tworld!')
 #print('Hello \nworld!')
 
-#ism_sharif = 'james bond'
-#print(ism_sharif.title())
-#print(ism_sharif.capitalize())
+ism_sharif = 'james bond'
+print(ism_sharif.title())
+print(ism_sharif.capitalize())
 
 #meva = '    olma     '
 #print("Men "+ meva.lstrip()+"ni yaxshi ko'raman")
